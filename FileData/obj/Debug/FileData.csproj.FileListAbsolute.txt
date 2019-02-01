@@ -1,0 +1,10 @@
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
